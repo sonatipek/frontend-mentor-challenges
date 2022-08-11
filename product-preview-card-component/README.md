@@ -42,6 +42,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.sonatipek.com)
+- Website - [Sonat Saygın İPEK](https://www.sonatipek.com)
 - Frontend Mentor - [@sonatipek](https://www.frontendmentor.io/profile/sonatipek)
 - Twitter - [@sonatipek](https://www.twitter.com/sonatipek)
+- LinkedIn - [@sonatipek](https://www.linkedin.com/in/sonatipek)
