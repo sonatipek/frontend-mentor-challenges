@@ -25,11 +25,11 @@ Users should be able to:
 ### Screenshot
 
 Phone View
-![](./phone.jpg)
+![](./phone.png)
 Desktop View
-![](./desktop.jpg)
+![](./desktop.png)
 Hover States
-![](./active.jpg)
+![](./active.png)
 
 ### Links
 
