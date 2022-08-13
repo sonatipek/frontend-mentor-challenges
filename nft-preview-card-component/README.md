@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-Phone View
+
 ![](./phone.png)
-Desktop View
+
 ![](./desktop.png)
-Hover States
+
 ![](./active.png)
 
 ### Links
