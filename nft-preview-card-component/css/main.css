@@ -5,6 +5,7 @@
     place-items: center;
 }
 
+/* *Card */
 .card{
     width: fit-content;
     background: var(--card-bg);
@@ -15,6 +16,7 @@
     padding: 1.25rem;
 }
 
+/* Card İmage */
 .card .card-image{
     background-image: url(/images/image-equilibrium.jpg);
     background-size: cover;
@@ -49,6 +51,7 @@
     display: inline-block;
 }
 
+/* Card Content */
 .card .card-content{
     display: flex;
     flex-direction: column;
@@ -87,6 +90,7 @@
     margin-right: .3rem;
 }
 
+/* Card Footer */
 .card .card-footer{
     display: flex;
     align-items: center;
