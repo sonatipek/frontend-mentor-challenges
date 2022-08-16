@@ -127,12 +127,52 @@ main .rate-card .card-rating button:hover{
 
 
 /* *Thank Card */
+main .thank-card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(circle at top,hsl(215,20%,17%),hsl(216,18%,12%));
+  width: 28%;
+  border-radius: 30px;
+  padding: 3rem 2rem;
+  /* !TODO: BOX SHADOW */
+  display: none;
+}
+
+main .thank-card .card-header{
+  margin-bottom: 2rem;
+}
+main .thank-card .card-header p{
+  margin-top: 2rem;
+  background-color: hsla(217, 12%, 63%, .1);
+  color: var(--primary-color);
+  padding: .5rem 1rem;
+  border-radius: 50px;
+}
+
+main .thank-card .card-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+main .thank-card .card-content h2{
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+main .thank-card .card-content p{
+  color: var(--medium-gray);
+  text-align: center;
+  line-height: 1.5;
+}
+
 
 /* *Footer */
 footer .attribution {
   font-size: 11px;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 footer .attribution a{
