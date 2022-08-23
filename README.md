@@ -5,3 +5,4 @@
 - NFT Preview Card Component
 - Interactive Rating Component
 - 3 Preview Card Component
+- Single Price Grid Component
